@@ -1,5 +1,5 @@
 # Customer Lifetime Value (LTV) Prediction
-
+Customer Lifetime Value (LTV) prediction using Python (XGBoost, Sklearn) with feature engineering, model training, and customer segmentation. Includes notebook, CSV output, and visualizations.
 ## 📌 Project Overview
 This project predicts the **Customer Lifetime Value (LTV)** based on purchase behavior.  
 The goal is to help businesses segment customers into **Low, Medium, and High value groups** for targeted marketing.
