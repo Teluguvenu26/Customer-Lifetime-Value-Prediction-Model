@@ -1,0 +1,8 @@
+customer_id,frequency,total_spend,avg_order_value,recency,ltv,predicted_ltv,ltv_segment
+C001,4,496.49,124.1225,29,496.49,496.37122,Medium Value
+C002,4,566.25,141.5625,34,566.25,566.2833,High Value
+C003,3,395.75,131.91666666666666,1,395.75,396.23862,Medium Value
+C004,2,90.25,45.125,80,90.25,89.9625,Low Value
+C005,3,655.75,218.58333333333334,7,655.75,655.03906,High Value
+C006,2,110.0,55.0,59,110.0,110.64706,Low Value
+C007,2,485.0,242.5,38,485.0,484.98352,Medium Value
