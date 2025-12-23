@@ -52,8 +52,3 @@ The goal is to help businesses segment customers into **Low, Medium, and High va
 2. Run all cells to generate predictions.  
 3. Download the CSV file (`customer_ltv_predictions.csv`).  
 4. Use the CSV for further analysis or marketing strategy.
-
----
-
-✨ This project is a simple but practical demonstration of how **machine learning can be applied to customer analytics**.  
-Feel free to fork, modify, or extend it with larger datasets and advanced models.
